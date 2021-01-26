@@ -1,3 +1,3 @@
 # Playtak
 
-This is the code used for running [playtak.com](https://playtak.com).
+Playing around with the code from the beautiful playtak.com; I would love to have something this nice for playing the game Nomad.
